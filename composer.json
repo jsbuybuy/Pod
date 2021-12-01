@@ -8,6 +8,7 @@
 			"email": "hlhddex@gmail.com"
 		}
 	],
+	"mininum-stability": "stable",
 	"require": {
 		"php": ">=5.3.0"
 	},
