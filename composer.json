@@ -8,12 +8,6 @@
 			"email": "hlhddex@gmail.com"
 		}
 	],
-	"mininum-stability": "v1.0.0",
-	"require": {
-		"php": ">=5.6",
-		"guzzlehttp/guzzle": "^6.1"
-	},
-	
 	"autoload": {
 		"psr-4": {"ebayauto\\": "src/"}
 	},
